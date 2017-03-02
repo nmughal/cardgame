@@ -10,5 +10,3 @@ module.exports = function buildDeck() {
 
   return deck;
 };
-
-console.log(deck);
